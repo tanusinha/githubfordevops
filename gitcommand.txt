@@ -4,3 +4,6 @@
 4. Git commit -m “message” -> from staged to track 
 5. Rm <filename> -> to delete a file
 6. Git restore <filename> -> to restore the deleted fie 
+82  git status 
+there are new changes in the repo 
+kindly note it 
